@@ -33,8 +33,8 @@ interface Developer {
 const lael: Developer = {
   name: "Lael Boker (Tinunguis)",
   pronouns: ["he", "him"],
-  code: ["ASM x86", "C/C++", "Python", "TypeScript", "JavaScript", "HTML5", "CSS"],
-  tools: ["Node.js", "Nuxt", "Podman", "MariaDB", "Git", "NPM"],
+  code: ["ASM x86", "C/C++", "Java", "Python", "TypeScript", "JavaScript", "HTML5", "CSS"],
+  tools: ["Node.js", "Nuxt", "Podman", "MariaDB", "MongoDB", "Git", "NPM"],
   domains: {
     workingMostlyWith: "Telecom & Infrastructure",
     passion: "Cybersecurity & Digital Forensics"
