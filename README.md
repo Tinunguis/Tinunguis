@@ -26,6 +26,7 @@ interface Developer {
   code: string[];
   tools: string[];
   domains: Record<string, string>;
+  sideQuests: string[];
   status: string;
 }
 
